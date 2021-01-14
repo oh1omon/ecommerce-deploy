@@ -95,5 +95,5 @@ app.get('*', (req, res) => {
 	res.sendFile(path.join(__dirname + '/client/build/index.html'));
 });
 
-server.listen(PORT, host, () => console.log(`server ${host}:${PORT} is serving`));
+server.listen(PORT, '0.0.0.0', () => console.log(`server ${host}:${PORT} is serving`));
 //server.listen(PORT, host, () => console.log(`server ${host}:${PORT} is serving`));
