@@ -5,7 +5,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "female"],
 		"amount": 263,
-		"img": "http://localhost:5000/images/coat.jpg",
+		"img": "http://0.0.0.0:5000/images/coat.jpg",
 		"price": "34.75"
 	},
 	{
@@ -14,7 +14,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "female"],
 		"amount": 174,
-		"img": "http://localhost:5000/images/jacket.jpg",
+		"img": "http://0.0.0.0:5000/images/jacket.jpg",
 		"price": "24.75"
 	},
 	{
@@ -23,7 +23,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "male"],
 		"amount": 129,
-		"img": "http://localhost:5000/images/shirt.jpg",
+		"img": "http://0.0.0.0:5000/images/shirt.jpg",
 		"price": "45.00"
 	},
 	{
@@ -32,7 +32,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "male"],
 		"amount": 5,
-		"img": "http://localhost:5000/images/hoodie.jpg",
+		"img": "http://0.0.0.0:5000/images/hoodie.jpg",
 		"price": "49.90"
 	},
 	{
@@ -41,7 +41,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "male"],
 		"amount": 263,
-		"img": "http://localhost:5000/images/trousers.jpg",
+		"img": "http://0.0.0.0:5000/images/trousers.jpg",
 		"price": "34.75"
 	},
 	{
@@ -50,7 +50,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "female"],
 		"amount": 174,
-		"img": "http://localhost:5000/images/dress.jpg",
+		"img": "http://0.0.0.0:5000/images/dress.jpg",
 		"price": "24.75"
 	},
 	{
@@ -59,7 +59,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "female"],
 		"amount": 129,
-		"img": "http://localhost:5000/images/top.jpg",
+		"img": "http://0.0.0.0:5000/images/top.jpg",
 		"price": "45.00"
 	},
 	{
@@ -68,7 +68,7 @@
 		"description": "Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro! Commodi quae vero neque, quia perferendis numquam ipsam animi veritatis blanditiis porro!Very comfortable jacket, I mean very-very comfortable. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
 		"sex": ["all", "female"],
 		"amount": 5,
-		"img": "http://localhost:5000/images/body.jpg",
+		"img": "http://0.0.0.0:5000/images/body.jpg",
 		"price": "49.90"
 	}
 ]
