@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+@tailwind base;
+.hero-image {
+	background: url('./assets/img/bg-blue.jpg') no-repeat center center/cover;
+}
+.hero-image::before {
+	position: absolute;
+	content: '';
+	height: 100%;
+	width: 100%;
+	background-color: rgba(37, 99, 235, 0.5);
+	top: 0;
+	left: 0;
+	opacity: 0.3;
+}
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,8 @@
+{
+	"usersFile": "users.json",
+	"subscribers": "subscribers.json",
+	"orders": "orders.json",
+	"messages": "messages.json",
+	"errors": "errors.js",
+	"privateAPI": "privateAPI.js"
+}

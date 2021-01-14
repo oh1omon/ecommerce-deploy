@@ -1,0 +1,16 @@
+{
+	"name": "ecommerce-production",
+	"version": "1.0.0",
+	"description": "",
+	"main": "serverIndex.js",
+	"scripts": {
+		"start": "node serverIndex.js",
+		"heroku-postbuild": "cd client && npm install && npm run build"
+	},
+	"keywords": [],
+	"author": "Aiden Ohl",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}

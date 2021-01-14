@@ -1,0 +1,9 @@
+{
+	"port": 5000,
+	"host": "localhost",
+	"storage": {
+		"storageFolder": "private",
+		"dataLayer": "dataLayer.js",
+		"db": "items.json"
+	}
+}
