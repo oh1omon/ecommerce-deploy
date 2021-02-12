@@ -1,5 +1,7 @@
 # The version of Ecommerce-project ready for deploy to Heroku
 
+## https://magaziini.herokuapp.com/
+
 ## Basis
 
 Express server serves React application itself and API.
